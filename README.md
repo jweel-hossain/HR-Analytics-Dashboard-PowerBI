@@ -21,4 +21,5 @@ This Power BI dashboard provides a deep dive into employee attrition and workfor
 
 ## How to View this Project
 1. Download the `HR Analytics.pbix` file.
-2. Open it with **Power BI Desktop**.
+  https://github.com/jweel-hossain/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analytics.pbix
+3. Open it with **Power BI Desktop**.
