@@ -11,7 +11,7 @@ This Power BI dashboard provides a deep dive into employee attrition and workfor
 - **DAX (Data Analysis Expressions):** Created custom columns like `Age Group` and measures for `Total Employees`.
 - **Power Query:** Used for data cleaning and transformation.
 - **Dataset:** HR Analytics Employee Attrition data.
-## Dashboard Preview:https://github.com/jweel-hossain/HR-Analytics-Dashboard-PowerBI/blob/main/HR%20Analytics%20Dashboard1.PNG
+## Dashboard Preview:<img width="700" src="https://github.com/user-attachments/assets/8c539b97-3ed6-406f-b8e2-522d38968733" />
 
 ## Key Features:
 - **Interactive Slicers:** Filter data by Department, Business Travel,JobRole and Overtime.
